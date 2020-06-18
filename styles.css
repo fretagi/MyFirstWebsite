@@ -1,0 +1,125 @@
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+}
+
+.nav_links {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.nav_links ul li a {
+    padding-left: 20px;
+    font-size: 20px;
+    text-decoration: none;   
+}
+
+
+
+.description {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.description p span {
+    font-style: italic;
+}
+
+.image1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.ingredients {
+    margin-left: 20px;
+    
+}
+.ingredients h2 {
+    margin-bottom: 20px;
+}
+
+.ingredients li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#instructions {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.egg {
+    list-style: "🥚";
+}
+.timer {
+    list-style: "⏲️";
+}
+.spoon {
+    list-style: "🥣";
+}
+.pan {
+    list-style: "🍳";
+}
+.cookie {
+    list-style: "🍪";
+}
+
+.toppings {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.toppings h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.toppings ol li {
+    margin-left: 20px;
+}
+
+#instru_topp {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#instru_topp h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#instru_topp p span:last-child {
+    text-decoration: underline;
+}
+
+#instru_topp p > .especial {
+    text-decoration: red;
+}
+
+.image2 {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#recip_links {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#recip_links ul li a {
+    padding-left: 20px;
+    font-size: 20px;
+    text-decoration: none;   
+}
+
+#recip_links ul li a:hover {
+    color: brown;
+}
